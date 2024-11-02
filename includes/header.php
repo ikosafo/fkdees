@@ -234,8 +234,6 @@
             </div>
             <div class="content-box">
                 <h3>Get In Touch</h3>
-                <div class="text">We must explain to you how all seds this mistakens idea off denouncing pleasures and praising pain was born and I will give you a completed accounts..</div>
-                <a href="#" class="theme-btn btn-style-two"><div class="btn-title">Consultation</div></a>
             </div>
             <div class="contact-info">
                 <h2>Contact Info</h2>
