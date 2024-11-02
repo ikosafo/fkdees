@@ -431,30 +431,6 @@
                                 </div>
                             </div>
                         </div>
-                    </div></div><div class="owl-item cloned" style="width: 1170px; margin-right: 30px;"><div class="testimonial-block-two">
-                        <div class="inner-box">
-                            <div class="content">
-                                <div class="title-box">
-                                    <h3>“The Holiday of Our Life Time”.</h3>
-                                </div>
-                                <div class="rating">
-                                    <div class="curve"></div>
-                                    <div class="rate">
-                                        <span class="fa fa-star"></span>
-                                        <span class="fa fa-star"></span>
-                                        <span class="fa fa-star"></span>
-                                        <span class="fa fa-star"></span>
-                                        <span class="fa fa-star"></span>
-                                    </div>
-                                </div>
-                                <div class="text">The holiday of a life time our gulet adventure in the Greek Islands was without doubt our favourite family trip, it was the best trip ever.</div>
-                                <div class="info">
-                                    <div class="icon-box"><span class="flaticon-quote"></span></div>
-                                    <div class="name">Noah Oliver</div>
-                                    <div class="designation">Cruising To The Cyclades</div>
-                                </div>
-                            </div>
-                        </div>
                     </div></div></div></div><div class="owl-nav"><button type="button" role="presentation" class="owl-prev"><span class="icon flaticon-back"></span></button><button type="button" role="presentation" class="owl-next"><span class="icon flaticon-next"></span></button></div><div class="owl-dots"><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot active"><span></span></button></div></div>
             </div>
 
