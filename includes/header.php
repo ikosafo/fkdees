@@ -36,7 +36,7 @@
     <!-- Main Header -->
     <header class="main-header header-style-one">
         <div class="logo-desktop">
-            <div class="logo"><a href="/" title="Sailing - Water Sports HTML Template"><img src="<?php echo URLROOT ?>/assets/images/fkdees_logo.png" alt="Sailing - Water Sports HTML Template" title="Sailing - Water Sports HTML Template"></a></div>
+            <div class="logo"><a href="/" title="FKDEE'S TRAVEL AND TOUR SERVICES - Your Journey, Our Expertise"><img src="<?php echo URLROOT ?>/assets/images/fkdees_logo.png" alt="FKDEE'S TRAVEL AND TOUR SERVICES - Your Journey, Our Expertise"></a></div>
         </div>
         <!-- Header Top -->
         <div class="header-top header-top-one">
@@ -80,7 +80,7 @@
                 <div class="inner clearfix" style="background-color: #fff;">
                     <!--Logo-->
                     <div class="logo-box">
-                        <div class="logo"><a href="/" title="Sailing - Water Sports HTML Template"><img src="<?php echo URLROOT ?>/assets/images/fkdees_logo.png" alt="Sailing - Water Sports HTML Template" title="Sailing - Water Sports HTML Template"></a></div>
+                        <div class="logo"><a href="/" title="FKDEE'S TRAVEL AND TOUR SERVICES - Your Journey, Our Expertise"><img src="<?php echo URLROOT ?>/assets/images/fkdees_logo.png" alt="FKDEE'S TRAVEL AND TOUR SERVICES - Your Journey, Our Expertise"></a></div>
                     </div>
                     <div class="nav-content clearfix">
                         <div class="nav-outer clearfix">
