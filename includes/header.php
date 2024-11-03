@@ -91,12 +91,12 @@
                             <nav class="main-menu navbar-expand-md navbar-light">
                                 <div class="collapse navbar-collapse show clearfix" id="navbarSupportedContent">
                                     <ul class="navigation clearfix">
-                                        <li class="current"><a href="/">Home</a></li>
-										<li class="dropdown"><a href="#">About Us</a>
+                                        <li class="<?php echo (str_replace(['http://', 'https://'], '', $currentUrl) == str_replace(['http://', 'https://'], '', URLROOT) || str_replace(['http://', 'https://'], '', $currentUrl) == str_replace(['http://', 'https://'], '', URLROOT . '/')) ? 'current' : ''; ?>"><a href="/">Home</a></li>
+										<li class="dropdown <?php echo (strpos($currentUrl, 'about') !== false) || (strpos($currentUrl, 'whyChoose') !== false) || (strpos($currentUrl, 'missionValues') !== false) ? 'current' : ''; ?>"><a href="#">About Us</a>
                                             <ul>
-												<li><a href="#">Our Story</a></li>
-                                                <li><a href="#">Our Core Values</a></li>
-												<li><a href="#">Our Mission and Vision</a></li>
+												<li><a href="about">Our Story</a></li>
+                                                <li><a href="coreValues">Our Core Values</a></li>
+												<li><a href="missionVision">Our Mission and Vision</a></li>
                                             </ul>
                                         </li>
                                         <li><a href="#">Blog/News</a></li>
