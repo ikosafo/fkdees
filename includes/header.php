@@ -92,7 +92,7 @@
                                 <div class="collapse navbar-collapse show clearfix" id="navbarSupportedContent">
                                     <ul class="navigation clearfix">
                                         <li class="<?php echo (str_replace(['http://', 'https://'], '', $currentUrl) == str_replace(['http://', 'https://'], '', URLROOT) || str_replace(['http://', 'https://'], '', $currentUrl) == str_replace(['http://', 'https://'], '', URLROOT . '/')) ? 'current' : ''; ?>"><a href="/">Home</a></li>
-										<li class="dropdown <?php echo (strpos($currentUrl, 'about') !== false) || (strpos($currentUrl, 'whyChoose') !== false) || (strpos($currentUrl, 'missionValues') !== false) ? 'current' : ''; ?>"><a href="#">About Us</a>
+										<li class="dropdown <?php echo (strpos($currentUrl, 'about') !== false) || (strpos($currentUrl, 'coreValues') !== false) || (strpos($currentUrl, 'missionVision') !== false) ? 'current' : ''; ?>"><a href="#">About Us</a>
                                             <ul>
 												<li><a href="about">Our Story</a></li>
                                                 <li><a href="coreValues">Our Core Values</a></li>
