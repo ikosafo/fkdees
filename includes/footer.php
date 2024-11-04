@@ -37,16 +37,16 @@
                                 <div class="row clearfix">
                                     <div class="col-lg-6 col-md-6 col-sm-12">
                                         <ul class="links">
-                                            <li><a href="#">VISA Information</a></li>
-                                            <li><a href="#">Travel Essentials</a></li>
-                                            <li><a href="#">Payment Options</a></li>
+                                            <li><a href="quickLinks#visa">VISA Information</a></li>
+                                            <li><a href="quickLinks#travel">Travel Essentials</a></li>
+                                            <li><a href="quickLinks#payment">Payment Options</a></li>
                                         </ul>
                                     </div>
                                     <div class="col-lg-6 col-md-6 col-sm-12">
                                         <ul class="links">
-                                            <li><a href="#">Local Customs</a></li>
-                                            <li><a href="#">Currency Info</a></li>
-                                            <li><a href="#">Refund Policy</a></li>
+                                            <li><a href="quickLinks#local">Local Customs</a></li>
+                                            <li><a href="quickLinks#currency">Currency Info</a></li>
+                                            <li><a href="quickLinks#refund">Refund Policy</a></li>
                                         </ul>
                                     </div>
                                 </div>

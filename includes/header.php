@@ -160,8 +160,11 @@
 
                     <!--Book Btn-->
                     <div class="booking-link">
-                        <a href="#" class="theme-btn btn-style-one"><div class="btn-title">Call Now</div></a>
+                        <a href="tel:+233248080447" class="theme-btn btn-style-one">
+                            <div class="btn-title">Call Now</div>
+                        </a>
                     </div>
+
                 </div>
             </div>
         </div><!-- End Sticky Menu -->
