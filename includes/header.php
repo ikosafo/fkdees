@@ -242,7 +242,7 @@
                 <h2>Contact Info</h2>
                 <ul class="list-style-two">
                     <li><span class="icon fa fa-map-marker-alt"></span>Cape coast Academy, Opposite Abrua police station, C/R, Ghana</li>
-                    <li><span class="icon fa fa-phone-alt"></span><a href="tel:+233248080447">+233248080447 / +23359922818</a></li>
+                    <li><span class="icon fa fa-phone-alt"></span><a href="tel:+233248080447">+233248080447 / +233599228189</a></li>
                     <li><span class="icon fa fa-envelope-open"></span> <a href="mailto:info@fkdeestravel.com">info@fkdeestravel.com</a></li>
                 </ul>
             </div>

@@ -51,7 +51,7 @@
                                 <div class="subtitle">Call Us</div>
                             </div>
                             <div class="content-box">
-                                <div class="text">+23359922818 &amp; <br>+233248080447 </div>
+                                <div class="text">+233599228189 &amp; <br>+233248080447 </div>
                             </div>
                         </div>
                     </div>
