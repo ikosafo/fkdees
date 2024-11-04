@@ -118,7 +118,7 @@
                         <div class="other-links clearfix">
                             <!--Book Btn-->
                             <div class="book-btn">
-                                <a href="#" class="theme-btn btn-style-one"><div class="btn-title">Call Us</div></a>
+                                <a href="tel:+233248080447" class="theme-btn btn-style-one"><div class="btn-title">Call Us</div></a>
                             </div>
                             <!--Social Links-->
                             <!-- <div class="social-links social-links-one">
