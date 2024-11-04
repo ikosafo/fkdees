@@ -101,12 +101,12 @@
                                         </li>
                                         <li><a href="#">Blog/News</a></li>
                                         <li class="<?php echo (strpos($currentUrl, 'destinations') !== false) ? 'current' : ''; ?>"><a href="destinations">Destinatons</a></li>
-                                        <li class="dropdown"><a href="#">Trips and Offers</a>
+                                        <li class="dropdown <?php echo (strpos($currentUrl, 'flightScheduling') !== false) || (strpos($currentUrl, 'lodgingArrangements') !== false) || (strpos($currentUrl, 'travelInsurance') !== false) || (strpos($currentUrl, 'visaAssistance') !== false) ? 'current' : ''; ?>"><a href="#">Trips and Offers</a>
                                             <ul>
-												<li><a href="#">Flight Scheduling</a></li>
-                                                <li><a href="#">Lodging Arrangements</a></li>
-                                                <li><a href="#">Travel Insurance</a></li>
-                                                <li><a href="#">Visa Assistance</a></li>
+												<li><a href="flightScheduling">Flight Scheduling</a></li>
+                                                <li><a href="lodgingArrangements">Lodging Arrangements</a></li>
+                                                <li><a href="travelInsurance">Travel Insurance</a></li>
+                                                <li><a href="visaAssistance">Visa Assistance</a></li>
                                             </ul>
                                         </li>
 										<li><a href="#">Contact Us</a></li>
