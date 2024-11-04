@@ -2248,6 +2248,7 @@ body.search-visible{
 	cursor: pointer;
 	margin-left: 0px;
 	/* color: #ffffff; */
+	color: #7F8A99 !important;
 	margin: 25px 0px 0px 20px;
 	display: none;
 }

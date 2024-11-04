@@ -100,7 +100,7 @@
                                             </ul>
                                         </li>
                                         <li><a href="#">Blog/News</a></li>
-                                        <li><a href="#">Destinatons</a></li>
+                                        <li class="<?php echo (strpos($currentUrl, 'destinations') !== false) ? 'current' : ''; ?>"><a href="destinations">Destinatons</a></li>
                                         <li class="dropdown"><a href="#">Trips and Offers</a>
                                             <ul>
 												<li><a href="#">Flight Scheduling</a></li>
