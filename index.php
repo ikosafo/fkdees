@@ -15,7 +15,7 @@
         						<h1>Discover Your <br> Next Adventure</h1>
                                 <div class="text">Uncover breathtaking destinations and exclusive travel deals that turn every trip into an unforgettable experience. </div>
         						<div class="links-box clearfix">
-                                    <a href="#" class="theme-btn btn-style-two"><div class="btn-title">Explore More</div></a>
+                                    <a href="contact" class="theme-btn btn-style-two"><div class="btn-title">Explore More</div></a>
                                 </div>
                             </div>
                         </div>
@@ -34,7 +34,7 @@
                                 <h1>Wander Far,<br> Dream Big</h1>
                                 <div class="text">From iconic landmarks to hidden gems, let us guide you to the world's most inspiring places. </div>
                                 <div class="links-box clearfix">
-                                    <a href="#" class="theme-btn btn-style-two"><div class="btn-title">Explore More</div></a>
+                                    <a href="contact" class="theme-btn btn-style-two"><div class="btn-title">Explore More</div></a>
                                 </div>
                             </div>
                         </div>
@@ -53,7 +53,7 @@
                                 <h1>Your Journey<br> Starts Here</h1>
                                 <div class="text">Explore our tailored packages, from weekend getaways to grand adventures, and let us take care of the details. </div>
                                 <div class="links-box clearfix">
-                                    <a href="#" class="theme-btn btn-style-two"><div class="btn-title">Explore More</div></a>
+                                    <a href="contact" class="theme-btn btn-style-two"><div class="btn-title">Explore More</div></a>
                                 </div>
                             </div>
                         </div>
@@ -86,7 +86,7 @@
                         <div class="lower-content">
                             <div class="text"><span>W</span>e are your trusted partners in crafting unforgettable journeys and experiences across the globe. At FKDEES, we believe that travel should be more than just a trip – it should be an adventure that leaves you with lasting memories, meaningful connections, and a new perspective.</div>
                             <div class="link-box">
-                                <a href="#" class="default-link">
+                                <a href="about" class="default-link">
                                     <span class="icon flaticon-logout"></span> <span class="link-text">More About Us</span>
                                 </a>
                             </div>
@@ -165,15 +165,15 @@
                     <div class="service-block">
                         <div class="inner-box">
                             <div class="image-box">
-                                <a href="#"><img src="<?php echo URLROOT ?>/assets/img/img2.jpg" style="height:300px" alt="" title=""></a>
+                                <a href="flightScheduling"><img src="<?php echo URLROOT ?>/assets/img/img2.jpg" style="height:300px" alt="" title=""></a>
                             </div>
 
                             <div class="lower-box">
                                 <div class="lower-content">
                                     <div class="icon-box"><span class="flaticon-map"></span></div>
-                                    <h4><a href="#">Flight Bookings</a></h4>
+                                    <h4><a href="flightScheduling">Flight Bookings</a></h4>
                                     <div class="link-box">
-                                        <a href="#" class="default-link">
+                                        <a href="flightScheduling" class="default-link">
                                             <span class="icon flaticon-logout"></span> <span class="link-text">Read More</span>
                                         </a>
                                     </div>
@@ -185,15 +185,15 @@
                     <div class="service-block">
                         <div class="inner-box">
                             <div class="image-box">
-                                <a href="#"><img src="<?php echo URLROOT ?>/assets/img/img3.jpg" style="height:300px" alt="" title=""></a>
+                                <a href="lodgingArrangements"><img src="<?php echo URLROOT ?>/assets/img/img3.jpg" style="height:300px" alt="" title=""></a>
                             </div>
 
                             <div class="lower-box">
                                 <div class="lower-content">
                                     <div class="icon-box"><span class="flaticon-briefcase"></span></div>
-                                    <h4><a href="#">Lodging Arrangements</a></h4>
+                                    <h4><a href="lodgingArrangements">Lodging Arrangements</a></h4>
                                     <div class="link-box">
-                                        <a href="#" class="default-link">
+                                        <a href="lodgingArrangements" class="default-link">
                                             <span class="icon flaticon-logout"></span> <span class="link-text">Read More</span>
                                         </a>
                                     </div>
@@ -205,15 +205,15 @@
                     <div class="service-block">
                         <div class="inner-box">
                             <div class="image-box">
-                                <a href="#"><img src="<?php echo URLROOT ?>/assets/img/img5.jpg" style="height:300px" alt="" title=""></a>
+                                <a href="travelInsurance"><img src="<?php echo URLROOT ?>/assets/img/img5.jpg" style="height:300px" alt="" title=""></a>
                             </div>
 
                             <div class="lower-box">
                                 <div class="lower-content">
                                     <div class="icon-box"><span class="flaticon-wallet"></span></div>
-                                    <h4><a href="#">Travel Insurance</a></h4>
+                                    <h4><a href="travelInsurance">Travel Insurance</a></h4>
                                     <div class="link-box">
-                                        <a href="#" class="default-link">
+                                        <a href="travelInsurance" class="default-link">
                                             <span class="icon flaticon-logout"></span> <span class="link-text">Read More</span>
                                         </a>
                                     </div>
@@ -225,15 +225,15 @@
                     <div class="service-block">
                         <div class="inner-box">
                             <div class="image-box">
-                                <a href="#"><img src="<?php echo URLROOT ?>/assets/img/img4.jpg" style="height:300px" alt="" title=""></a>
+                                <a href="visaAssistance"><img src="<?php echo URLROOT ?>/assets/img/img4.jpg" style="height:300px" alt="" title=""></a>
                             </div>
 
                             <div class="lower-box">
                                 <div class="lower-content">
                                     <div class="icon-box"><span class="flaticon-surf-sea"></span></div>
-                                    <h4><a href="#">VISA Assistance</a></h4>
+                                    <h4><a href="visaAssistance">VISA Assistance</a></h4>
                                     <div class="link-box">
-                                        <a href="#" class="default-link">
+                                        <a href="visaAssistance" class="default-link">
                                             <span class="icon flaticon-logout"></span> <span class="link-text">Read More</span>
                                         </a>
                                     </div>
