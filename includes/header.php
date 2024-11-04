@@ -109,7 +109,7 @@
                                                 <li><a href="visaAssistance">Visa Assistance</a></li>
                                             </ul>
                                         </li>
-										<li><a href="#">Contact Us</a></li>
+										<li class="<?php echo (strpos($currentUrl, 'contact') !== false) ? 'current' : ''; ?>"><a href="contact">Contact Us</a></li>
                                     </ul>
                                 </div>
                             </nav>
