@@ -97,7 +97,6 @@
 												<li><a href="missionVision">Our Mission and Vision</a></li>
                                             </ul>
                                         </li>
-                                        <li><a href="#">Blog/News</a></li>
                                         <li class="<?php echo (strpos($currentUrl, 'destinations') !== false) ? 'current' : ''; ?>"><a href="destinations">Destinatons</a></li>
                                         <li class="dropdown <?php echo (strpos($currentUrl, 'flightScheduling') !== false) || (strpos($currentUrl, 'lodgingArrangements') !== false) || (strpos($currentUrl, 'travelInsurance') !== false) || (strpos($currentUrl, 'visaAssistance') !== false) ? 'current' : ''; ?>"><a href="#">Trips and Offers</a>
                                             <ul>
