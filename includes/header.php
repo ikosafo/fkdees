@@ -50,8 +50,6 @@
                                 <li class="email"><a href="mailto:info@fkdeestravel.com"><span class="icon fa fa-envelope"></span> info@fkdeestravel.com</a></li>
                             </ul>
                         </div>
-
-                        <div class="top-text"><span class="icon flaticon-surf-1"></span> Water Sports Activities, Experience The Thrill!.</div>
                     </div>
     
                     <div class="top-right clearfix">
@@ -66,7 +64,7 @@
                         </div>
                         <div class="my-account">
                             <ul class="clearfix">
-                                <li><a href="#"><span class="icon flaticon-password"></span> Login</a></li>
+                                <li><a href="contact"><span class="icon fa fa-map-marker"></span> Locate Us</a></li>
                             </ul>
                         </div>
                     </div>
